@@ -16,7 +16,7 @@ const ForgotPassword = () => {
   const [field, setField] = useState({});
 
   useScrollTop();
-  useDocumentTitle('Forgot Password | Harshit');
+  useDocumentTitle('Forgot Password | Eye World');
   useEffect(() => {
     if (didMount) {
       setForgotPWStatus(authStatus);

@@ -1,5 +1,5 @@
 import * as Route from '@/constants/routes';
-import logo from '@/images/logo-full.png';
+import logo from '@/images/logo-full1.png';
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 
@@ -18,7 +18,7 @@ const Footer = () => {
           <span>
             Developed by
             {' '}
-            <a href="https://github.com/jgudo">HARSHIT MATHUR</a>
+            <a href="https://github.com/harshitmathur007/react-demo-ecommerce">HARSHIT MATHUR</a>
           </span>
         </strong>
       </div>

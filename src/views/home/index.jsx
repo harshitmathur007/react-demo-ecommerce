@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 
 const Home = () => {
-  useDocumentTitle('Eye Brand | Home');
+  useDocumentTitle('Eye World | Home');
   useScrollTop();
 
   const {

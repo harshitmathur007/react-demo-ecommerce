@@ -6,7 +6,7 @@ import {
   REMOVE_PRODUCT,
   SEARCH_PRODUCT
 } from '@/constants/constants';
-import { ADMIN_PRODUCTS } from '@/constants/routes';
+import { ADMIN_PRODUCTS, ADMIN_USERS } from '@/constants/routes';
 import { displayActionMessage } from '@/helpers/utils';
 import {
   all, call, put, select

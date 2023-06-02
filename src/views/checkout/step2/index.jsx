@@ -39,7 +39,7 @@ const FormSchema = Yup.object().shape({
 });
 
 const ShippingDetails = ({ profile, shipping, subtotal }) => {
-  useDocumentTitle('Check Out Step 2 | Eye Brand');
+  useDocumentTitle('Check Out Step 2 | Eye World');
   useScrollTop();
   const dispatch = useDispatch();
   const history = useHistory();
